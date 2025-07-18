@@ -4,6 +4,7 @@ int main(){
     string name; 
     cout << "Enter your name: "; cin >> name; 
     cout << "Hello, " << name << ", hihi" << endl; 
+    cout << "Hello manhpham"; 
     return 0;
 
 }   
